@@ -7,5 +7,5 @@
 
 <!-- Animated welcome message -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kavoon&size=43&pause=1000&color=EEA687&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=210&lines=If+you+don't+walk+out.+;You+will+think+that+this+is+the+whole+world." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kavoon&size=43&pause=1000&color=EEA687&background=FFFFFF00&center=true&vCenter=true&width=1100&height=160&lines=If+you+don't+walk+out.+;You+will+think+that+this+is+the+whole+world." alt="Typing SVG" />
 </div>
