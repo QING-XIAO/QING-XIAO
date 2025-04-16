@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-INFJ--T-%23b06bff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-Music-%238afff7?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" />
   <img src="https://img.shields.io/badge/Game-Apex-%23ff8839?style=for-the-badge&logo=EA&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-珊瑚红-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-^--^-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
 
 
