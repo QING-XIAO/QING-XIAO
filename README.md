@@ -40,3 +40,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=72c7ff&reversal=true&section=footer"/>
