@@ -11,6 +11,10 @@
 </div>
 
 <!-- GitHub Stats with Ocean Theme -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">数据分布 | Data distribution
+</h3>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QING-XIAO&count_private=true&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QING-XIAO&theme=tokyonight&layout=compact" />
