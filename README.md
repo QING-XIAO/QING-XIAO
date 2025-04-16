@@ -13,7 +13,7 @@
 <!-- GitHub Stats with Ocean Theme -->
 <div align="center">
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=QING-XIAO&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QING-XIAO&layout=compact&theme=tokyonight" />
+  <img width="49%" height=211px src="https://github-readme-stats.vercel.app/api/top-langs/?username=QING-XIAO&theme=tokyonight&layout=compact" />
 </div>
 
 
