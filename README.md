@@ -9,3 +9,12 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kavoon&size=43&pause=1000&color=EEA687&background=FFFFFF00&center=true&vCenter=true&width=1100&height=160&lines=If+you+don't+walk+out.+;You+will+think+that+this+is+the+whole+world." alt="Typing SVG" />
 </div>
+
+<!-- GitHub Stats with Ocean Theme -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QING-XIAO&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=QING-XIAO&theme=tokyonight&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84&mode=weekly&card_height=190" />
+</div>
+
+
+
