@@ -20,5 +20,17 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QING-XIAO&theme=tokyonight&layout=compact" />
 </div>
 
+<!-- Interests with Wave Theme -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
+  兴趣浪花 | Interests Wave
+</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E6%80%A7%E6%A0%BC-INFJ--T-%23b06bff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E7%88%B1%E5%A5%BD-Music-%238afff7?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game-Apex-%23ff8839?style=for-the-badge&logo=EA&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-珊瑚红-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</div>
 
 
