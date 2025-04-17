@@ -22,9 +22,9 @@
 
 <!-- 奖杯🏆 -->
 <div align="center">
-  <img width="17%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
-  <img width="59%" src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism" />
-  &emsp;<img width="17%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
+  <img width="16%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_left.png" />&emsp;
+  <img width="63%" src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism" />
+  &emsp;<img width="16%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_right.png" />
 </ div>
 
 
