@@ -20,6 +20,13 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QING-XIAO&theme=tokyonight&layout=compact" />
 </div>
 
+<!-- 奖杯🏆 -->
+<div align="center">
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=juicyfresh" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism" />
+</ div>
+
+
 <!-- Interests with Wave Theme -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
