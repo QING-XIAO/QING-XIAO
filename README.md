@@ -22,7 +22,6 @@
 
 <!-- 奖杯🏆 -->
 <div align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=juicyfresh" /> -->
   <img src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism" />
 </ div>
 
@@ -46,6 +45,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- GitHub Readme Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QING-XIAO&bg_color=d1daff&color=eb0505&line=78e8b7&point=39478e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=72c7ff&reversal=true&section=footer"/>
