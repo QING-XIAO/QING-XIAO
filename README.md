@@ -23,7 +23,9 @@
 <!-- Github Readme Streak Stats -->
 <div align="center">
     <img width="20%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_left.png" />&emsp;
+    <picture  width="55%>
     <a href="https://github.com/QING-XIAO"><img src="https://streak-stats.demolab.com?user=QING-XIAO&theme=tokyonight-duo&locale=zh_Hans&card_width=400&card_height=190" alt="GitHub Streak" /></a>
+    </picture>
     &emsp;<img width="20%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_right.png" />
 </div>
 
