@@ -20,11 +20,16 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QING-XIAO&theme=tokyonight&layout=compact" />
 </div>
 
+<!-- Github Readme Streak Stats -->
+<div align="center">
+    <img width="26%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_left.png" />&emsp;
+    <a href="https://github.com/QING-XIAO"><img src="https://streak-stats.demolab.com?user=QING-XIAO&theme=tokyonight-duo&locale=zh_Hans&card_width=400&card_height=190" alt="GitHub Streak" /></a>
+    &emsp;<img width="26%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_right.png" />
+</div>
+
 <!-- 奖杯🏆 -->
 <div align="center">
-<!--   <img width="14%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_left.png" />&emsp; -->
   <img src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism&column=-1&margin-w=13" />
-<!--   &emsp;<img width="14%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_right.png" /> -->
 </ div>
 
 
