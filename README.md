@@ -43,9 +43,13 @@
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake-dark.svg">
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/output/github-contribution-grid-snake.svg"> -->
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QING-XIAO/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QING-XIAO/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QING-XIAO/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg">
 </picture>
 
 <!-- GitHub Readme Activity Graph -->
