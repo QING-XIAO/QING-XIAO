@@ -22,9 +22,9 @@
 
 <!-- 奖杯🏆 -->
 <div align="center">
-  <img width="14%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_left.png" />&emsp;
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism" />
-  &emsp;<img width="14%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_right.png" />
+<!--   <img width="14%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_left.png" />&emsp; -->
+  <img src="https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism&column=-1&margin-w=13" />
+<!--   &emsp;<img width="14%" src="https://raw.githubusercontent.com/QING-XIAO/QING-XIAO/main/img/chibang_right.png" /> -->
 </ div>
 
 
